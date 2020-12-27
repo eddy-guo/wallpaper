@@ -95,3 +95,11 @@ body {
   font-size: 40px;
   flex: 5;
 }
+
+.name {
+    position: absolute;
+    bottom: 0;
+    right: 24px;
+    color: white;
+    opacity: 20%;
+}
