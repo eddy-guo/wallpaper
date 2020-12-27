@@ -97,9 +97,9 @@ body {
 }
 
 .name {
-    position: absolute;
-    bottom: 0;
-    right: 24px;
-    color: white;
-    opacity: 20%;
+  position: absolute;
+  bottom: 0;
+  right: 24px;
+  color: white;
+  opacity: 20%;
 }
