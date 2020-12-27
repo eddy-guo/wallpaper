@@ -56,7 +56,6 @@ body {
   background-image: url(https://bit.ly/3mThU5S);
 }
 
-/* Flex Children */
 .panel > * {
   margin: 0;
   width: 100%;
