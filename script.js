@@ -15,3 +15,4 @@ panels.forEach((panel) => panel.addEventListener("click", toggleOpen));
 panels.forEach((panel) =>
   panel.addEventListener("transitionend", toggleActive)
 );
+//future implementations: double click bug, removes top and bottom text but keeps flex formatting
